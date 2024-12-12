@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Calligraffitti&display=swap');
+
+body {
+  background-color: rgb(78, 77, 77); /* cor de fundo mais suave */
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: 'Arial', sans-serif; /* Aplica fonte padrão ao corpo */
+}
+
+h1 {
+  font-family: 'Arial'; /* Fonte Bangers para títulos maiores */
+  font-weight: bolder;
+  font-size: 100px;
+  margin: 0;
+  padding: 0;
+}
